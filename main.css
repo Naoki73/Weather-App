@@ -1,0 +1,15 @@
+h1 {
+    color: rgb(225, 104, 219);
+    font-weight: 450;
+}
+
+.card{
+    background: rgba(255, 255, 255, 0.3);
+    font-weight: bolder;
+}
+
+.card-title{
+    font-weight: 400;
+    color: rgb(114, 8, 105)
+}
+
